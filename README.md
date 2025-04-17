@@ -1,0 +1,2 @@
+# bachelor-landing
+лаб2
